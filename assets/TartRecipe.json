@@ -1,0 +1,20 @@
+{
+    "URL": "http://google.com",
+    "ImageURL": "http://image.com",
+    "ingredients": [
+        {
+            "Name": "Bred",
+            "Ammount": "1",
+            "Units": "Loaf"
+        },
+        {
+            "Name": "Egg",
+            "Ammount": "3",
+            "Units": "Eggs"
+        }
+    ],
+    "recipe": [
+        "1 - Cook",
+        "2 - Eat"
+    ]
+}

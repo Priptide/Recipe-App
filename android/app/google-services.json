@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009981874968",
+    "firebase_url": "https://recipeapp-719f5.firebaseio.com",
+    "project_id": "recipeapp-719f5",
+    "storage_bucket": "recipeapp-719f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009981874968:android:edd70fe7412b00d1e6746d",
+        "android_client_info": {
+          "package_name": "com.MecurioInc.RecipeMe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009981874968-fd628e3ve1n4k334s5in0p243vf3ls3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0Ef0iVHQMltmrWds1LfSQXLSyTZyiic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009981874968-fd628e3ve1n4k334s5in0p243vf3ls3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
